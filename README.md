@@ -10,7 +10,7 @@ Our repo contains various packages to help you get your directory up and running
 💬 Discussion forum to ask questions, propose features and chat about all things directories!
 We believe directories should be easy to make and publish openly. So we're building the best open source tools to make that happen ✨
 
-Interested in contributing or sponsoring? See our CONTRIBUTING.md guide for how to get involved as a developer or backer.
+Interested in contributing or sponsoring? See our CONTRIBUTIONS.md guide for how to get involved as a developer or backer.
 
 And feel free to star 🌟 this repo if you find it useful. Your support helps keep us motivated!
 
